@@ -1,0 +1,15 @@
+# Build products
+MacClean.app/
+DerivedData/
+build/
+
+# Xcode user-specific files
+MacClean.xcodeproj/xcuserdata/
+MacClean.xcodeproj/xcshareddata/
+
+# Redundant source backup (already in git history)
+MacClean-Source-v2.zip
+
+# macOS
+.DS_Store
+*.bak
